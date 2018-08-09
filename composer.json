@@ -1,0 +1,11 @@
+{
+    "name": "schoolit/common-bundle-pack",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "schoolit/common-bundle": "^1.0",
+        "lightsaml/lightsaml": "^1.4",
+        "knplabs/knp-menu-bundle": "^2.3",
+        "swiftmailer/swiftmailer": "^6.1"
+    }
+}
